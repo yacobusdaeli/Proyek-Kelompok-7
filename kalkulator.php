@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <title>Kalkulator Sederhana</title>
-</head>
-
-<body>
-    <h1> Kalkulator Keren </h1>
     <h2>Kalkulator Sederhana</h2>
     <form method="post">
         <input type="number" name="angka1" placeholder="Angka pertama" required>
@@ -45,5 +38,3 @@
     }
     ?>
 </body>
-
-</html>
