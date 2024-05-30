@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <h2>Kalkulator Sederhana</h2>
+    <h3>Kintan</h3>
     <form method="post">
         <input type="number" name="angka1" placeholder="Angka pertama" required>
         <select name="operasi">
