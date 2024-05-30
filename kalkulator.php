@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Kalkulator Sederhana</title>
-</head>
-<body>
     <h2>Kalkulator Sederhana</h2>
     <form method="post">
         <input type="number" name="angka1" placeholder="Angka pertama" required>
@@ -42,4 +38,3 @@
     }
     ?>
 </body>
-</html>
